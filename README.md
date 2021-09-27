@@ -11,7 +11,7 @@ _Coming soon: ~~binaries for windows~~_
 ## Screenshots
 My screenshot in Termux ( Android )
 
-(https://x0.at/FKde.jpg)[Usage screenshot]
+[https://x0.at/FKde.jpg] (Usage screenshot)
 
 Help page in Termux ( Android )
-(https://x0.at/K2Vz.jpg)[Help page screenshot]
+[https://x0.at/K2Vz.jpg](Help page screenshot)
