@@ -22,6 +22,16 @@ func randomString(l int) string {
 }
 
 func main() {
+    for _, arg := range os.Args {
+        switch arg {
+            case "-h", "-help","--help":
+                fmt.Println("Ok.. I can help you..")
+                fmt.Println("Usage: ./gen {len of pass}")
+                fmt.Println("Use -h -help or --help to see help again")
+                fmt.Println("See you later)")
+        }
+    }
+
 	heightOfPass, _ := strconv.Atoi(os.Args[1])
 	rand.Seed(time.Now().UnixNano())
 	fmt.Println(randomString(heightOfPass))
