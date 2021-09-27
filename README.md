@@ -6,4 +6,12 @@ GNU/GPL v3.0
 Email me if you want to buy a binary file and support the project. Cost of a binary file for the release of the program - 0.22 $ 😅
 
 
-_Coming soon: binaries for windows_
+_Coming soon: ~~binaries for windows~~_
+
+## Screenshots
+My screenshot in Termux ( Android )
+
+(https://x0.at/FKde.jpg)[Usage screenshot]
+
+Help page in Termux ( Android )
+(https://x0.at/K2Vz.jpg)[Help page screenshot]
