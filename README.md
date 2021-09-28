@@ -15,4 +15,4 @@ My screenshot in Termux ( Android )
 
 Help page in Termux ( Android )
 
-![alt text](https://x0.at/K2Vz.jpg)
+![Help page](https://x0.at/K2Vz.jpg)
