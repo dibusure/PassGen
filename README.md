@@ -16,3 +16,11 @@ My screenshot in Termux ( Android )
 Help page in Termux ( Android )
 
 ![Help page](https://x0.at/K2Vz.jpg)
+
+On my Linux PC
+
+![Usage screenshot](https://x0.at/y4Oz.png)
+
+Help page in Linux
+
+![Help page](https://x0.at/eNQ4.png)
