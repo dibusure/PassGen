@@ -34,7 +34,7 @@ func main() {
     }
 
     if len(os.Args) == 1 {
-		fmt.Println("Ok.. I can help you..")
+		fmt.Println("Ok. I can help you..")
         fmt.Println("Usage: ./gen {len of pass}")
         fmt.Println("Use -h -help or --help to see help again")
         fmt.Println("See you later)")
