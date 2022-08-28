@@ -1,4 +1,4 @@
-package main
+package gen
 
 import (
     "fmt"
@@ -10,7 +10,7 @@ import (
 
 var pool = "abcdefghijklmnopqrstuvwxyzABCEFGHIJKLMNOPQRSTUVWXYZ:|?$%@][{}#&/()*"
 
-func randomString(l int) string {
+func RandomString(l int) string {
 
     bytes := make([]byte, l)
 
@@ -43,5 +43,5 @@ func main() {
 
 	heightOfPass, _ := strconv.Atoi(os.Args[1])
 	rand.Seed(time.Now().UnixNano())
-	fmt.Println(randomString(heightOfPass))
+	fmt.Println(RandomString(heightOfPass))
 }
