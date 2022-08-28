@@ -1,14 +1,11 @@
 # PassGen
 Passgen -- password generator written on go. Passgen -- be safe, be fast
 
-
 GNU/GPL v3.0
 
 ## Binaries
 You can find binaries in folder :)
 ### Free Binaries!
-
-
 
 ## Screenshots
 My screenshot in Termux ( Android )
